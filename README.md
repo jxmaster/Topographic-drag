@@ -4,4 +4,6 @@ Xie, J., Zhang, M., Xie, Z., Liu, H., Chai, Z., He, J. X., & Zhang, H. (2020). A
 
 and 
 
-Xie, J., Zhang, M., Zeng, Q., Xie, Z., Liu, H., Chai, Z., et al. (2021). Implementation of an orographic drag scheme considering orographic anisotropy in all flow directions in the earth system model CAS-ESM 2.0. Journal of Advances in Modeling Earth Systems, 13, e2021MS002585. https://doi.org/10.1029/2021MS002585
+Xie, J., Zhang, M., Zeng, Q., Xie, Z., Liu, H., Chai, Z., et al. (2021). Implementation of an orographic drag scheme considering orographic anisotropy in all flow directions in the earth system model CAS-ESM 2.0. Journal of Advances in Modeling Earth Systems, 13, e2021MS002585. https://doi.org/10.1029/2021MS002585.
+
+Related data can be downloaded at https://doi.org/10.5281/zenodo.13441176.
